@@ -23,3 +23,10 @@
   <a href="https://www.linkedin.com/in/brenoeduardomoreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   ![Snake animation](https://github.com/BrenoEduardo/BrenoEduardo/blob/output/github-contribution-grid-snake.svg)
  </div>
+
+  ## Competencias técnicas:<br>
+ ● Front-end: HTML, CSS, SCSS, JavaScript, TypeScript,React, ReactJs, Angular,Ionic, VueJs, Bootstrap, React-native;
+ 
+ ● Back-end: NodeJs, Express, API RestFull, Java;
+ 
+ ● Banco de dados: MongoDB, MySQL, PL/Sql;
