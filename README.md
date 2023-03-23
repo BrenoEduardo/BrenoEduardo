@@ -14,8 +14,6 @@
   <img align="center" alt="Breno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Breno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Breno-github" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
-    <img align="center" alt="Breno-github" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/angular.svg">
-  
 </div>
 
   ##
