@@ -1,9 +1,7 @@
 ## Oi! Eu sou o Breno Eduardo Costa Moreira
 
-- 🔭 Sou desenvolvedor Front-end, atualmente estou trabalhando com Angular e React
-- 🌱 Estou estudando no momento Redux e testes.
-- 📫 Contate-me no email: gabryel122crf@gmail.com
-- 💼 Acesse meu portfólio: https://portfolio2-0-gabrielbarbosagomes.vercel.app/
+- 🔭 Sou desenvolvedor Front-end e Back-end
+- 📫 Contate-me no email: breoeducm@hotmail.com
 <div align="center">
   <a href="https://github.com/GabrielBarbosaGomes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBarbosaGomes&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
